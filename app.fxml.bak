@@ -39,7 +39,7 @@
                     <Label font="$x1" layoutX="200.0" layoutY="88.0" onMouseClicked="#estadoClicado" styleClass="estado" text="PA" />
                     <Label font="$x1" layoutX="208.0" layoutY="38.0" onMouseClicked="#estadoClicado" styleClass="estado" text="AP" />
                     <Label font="$x1" layoutX="266.0" layoutY="90.0" onMouseClicked="#estadoClicado" styleClass="estado" text="MA" />
-                    <Label font="$x1" layoutX="238.0" layoutY="146.0" onMouseClicked="#estadoClicado" styleClass="estado" text="TO" />
+                    <Label font="$x1" layoutX="238.0" layoutY="139.0" onMouseClicked="#estadoClicado" styleClass="estado" text="TO" />
                     <Label font="$x1" layoutX="171.0" layoutY="172.0" onMouseClicked="#estadoClicado" styleClass="estado" text="MT" />
                     <Label font="$x1" layoutX="109.0" layoutY="159.0" onMouseClicked="#estadoClicado" styleClass="estado" text="RO" />
                     <Label font="$x1" layoutX="180.0" layoutY="239.0" onMouseClicked="#estadoClicado" styleClass="estado" text="MS" />
